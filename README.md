@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Mastering-Delphi-Programming-A-Complete-Reference-Guide/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/issues)
+[![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/network)
+[![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/pulls)
 
 # Mastering-Delphi-Programming-A-Complete-Reference-Guide
 Delphi is a cross-platform Integrated Development Environment (IDE) that supports rapid application development for most operating systems, including Microsoft Windows, iOS, and now Linux with RAD Studio 10.2. If you already know how to use Delphi features, you can easily create scalable applications quickly and confidently with this comprehensive book.

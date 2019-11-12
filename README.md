@@ -18,5 +18,5 @@ Hands-On Design Patterns with Delphi by Primož Gabrijelčič
 * Break a design problem down into its component parts
 
 ### Related GitHub repositories
-Delphi-High-Performance https://github.com/PacktPublishing/Delphi-High-Performance
-Hands-On-Design-Patterns-with-Delphi https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Delphi
+* Delphi-High-Performance https://github.com/PacktPublishing/Delphi-High-Performance
+* Hands-On-Design-Patterns-with-Delphi https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Delphi

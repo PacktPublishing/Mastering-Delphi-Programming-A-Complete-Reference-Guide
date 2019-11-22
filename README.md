@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/pulls)
 
-# Mastering-Delphi-Programming-A-Complete-Reference-Guide
+# Mastering Delphi Programming: A Complete Reference Guide
 Delphi is a cross-platform Integrated Development Environment (IDE) that supports rapid application development for most operating systems, including Microsoft Windows, iOS, and now Linux with RAD Studio 10.2. If you already know how to use Delphi features, you can easily create scalable applications quickly and confidently with this comprehensive book.
 
 This Learning Path begins by helping you learn how to find performance bottlenecks and apply the correct algorithm to fix them. You'll even brush up on tricks, techniques, and best practices to solve common design and architectural challenges. Next, you'll get up to speed with using external libraries to write better-performing programs. The book will also guide you through the eight most important patterns that'll help you develop and improve the interface between items and harmonize shared memories within threads. Finally, you’ll delve into improving the performance of your code and mastering cross-platform RTL improvements.

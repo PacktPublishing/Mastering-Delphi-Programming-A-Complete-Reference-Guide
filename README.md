@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-delphi-programming-a-complete-reference-guide/9781838989118)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide.svg)](https://github.com/PacktPublishing/Mastering-Delphi-Programming-A-Complete-Reference-Guide/stargazers)

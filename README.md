@@ -25,3 +25,7 @@ Hands-On Design Patterns with Delphi by Primož Gabrijelčič
 ### Related GitHub repositories
 * Delphi-High-Performance https://github.com/PacktPublishing/Delphi-High-Performance
 * Hands-On-Design-Patterns-with-Delphi https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-Delphi
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838989118">https://packt.link/free-ebook/9781838989118 </a> </p>
